@@ -3,6 +3,9 @@
 ## Description:
 The CV Data Extraction Tool is a web application built using Django, a Python web framework. The purpose of this tool is to extract key information such as email addresses, phone numbers, and text content from resumes (CVs) uploaded by users in either PDF or DOCX format.
 
+## Working Application Link:
+click here -> [here](cv-extractor-website.vercel.app)
+
 ## Key Features:
 1. Upload CV: Users can upload their CV files in either PDF or DOCX format.
 2. Extract Information: The application extracts email addresses, phone numbers, and text content from the uploaded CVs.
