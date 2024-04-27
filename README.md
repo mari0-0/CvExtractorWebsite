@@ -30,5 +30,8 @@ The CV Data Extraction Tool is a web application built using Django, a Python we
 - pandas
 - Django
 
+## Project Images:
+![alt text](https://github.com/mari0-0/CvExtractorWebsite/blob/fe1d5eb3f65faa16d670cf2a6dc6362fa5e94cc1/media/cv%20extractor.png)
+
 ## Author:
 Abhai Matta
