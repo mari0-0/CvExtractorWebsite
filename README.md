@@ -30,8 +30,5 @@ The CV Data Extraction Tool is a web application built using Django, a Python we
 - pandas
 - Django
 
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Author:
 Abhai Matta
